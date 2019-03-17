@@ -6,5 +6,11 @@ public class JavaDemo01 {
         System.out.println("222222");
         System.out.println("‘sout’输出");
         System.out.println("333333");
+
+        int a=1;
+        int b=3;
+        System.out.println(a+b);
+
+
     }
 }
